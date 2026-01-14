@@ -433,16 +433,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/AquaStoch/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-a-simple-inline-announcement-updated-now-for-checkups",
+          title: 'A simple inline announcement. updated now. for checkups',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
