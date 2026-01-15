@@ -202,3 +202,8 @@ body {
   font-weight: normal;
   -webkit-font-smoothing: antialiased;
 }
+
+/* Dark mode – override global background (al-folio) */
+html.dark {
+  --global-bg-color: #121212;
+}
