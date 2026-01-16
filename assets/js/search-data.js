@@ -84,11 +84,26 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/2025_12_01/";
-            },},{id: "projects-structured-modle",
-          title: 'Structured Modle',
+            },},{id: "projects-rl",
+          title: 'RL',
+          description: "reinforcment learning for groundwater market",
+          section: "Projects",handler: () => {
+              window.location.href = "/AquaStoch/projects/computations1/";
+            },},{id: "projects-markov-chain-callibration",
+          title: 'Markov Chain Callibration',
+          description: "description",
+          section: "Projects",handler: () => {
+              window.location.href = "/AquaStoch/projects/data1/";
+            },},{id: "projects-structured-model",
+          title: 'Structured Model',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/AquaStoch/projects/model1/";
+            },},{id: "projects-pro-rata-model",
+          title: 'Pro-rata Model',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/AquaStoch/projects/prorata/";
             },},{id: "projects-template",
           title: 'template',
           description: "description",
