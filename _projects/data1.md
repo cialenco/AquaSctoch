@@ -1,10 +1,10 @@
 ---
 layout: page
-title: template
+title: Markov Chain Callibration
 description: description 
-img: assets/img/9.jpg
-importance: 10
-category: models
+img: assets/img/4.jpg
+importance: 1
+category: data
 related_publications: true
 bibliography: papers
 ---

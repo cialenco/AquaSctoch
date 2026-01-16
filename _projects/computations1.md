@@ -1,10 +1,10 @@
 ---
 layout: page
-title: template
-description: description 
+title: RL
+description: reinforcment learning for groundwater market 
 img: assets/img/9.jpg
-importance: 10
-category: models
+importance: 1
+category: computations
 related_publications: true
 bibliography: papers
 ---

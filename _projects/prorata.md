@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Structured Model
+title: Pro-rata Model
 description:  
 img: assets/img/5.jpg
-importance: 1
+importance: 2
 category: models
 # related_publications: true
 bibliography: papers
