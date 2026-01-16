@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: working on the groundwater markets and managment   
 nav: true
 nav_order: 7
 
@@ -10,12 +10,12 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    # image: prof_pic.jpg
+    image: igorBW.jpg
     content: about_igor.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>cialenco@illinoistech.edu</p>
-      <p>cialenco.com</p>
+      <a href="http://cialenco.com">cialenco.com </a>
+      <p>cialenco at illinoistech.edu</p>    
       <p>Illinois Tech, USA</p>
   - align: left
     # image: prof_pic.jpg
