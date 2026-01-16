@@ -1,0 +1,17 @@
+{% if page.bibliography %}
+  <div class="project-bibliography">
+    <h2>References</h2>
+    <ul class="bibliography">
+      {% for entry in site.bibliography %}
+        {% if page.bibliography contains entry.key %}
+          <li>
+            <strong>{{ entry.author | join: ', ' }}</strong> ({{ entry.year }}). 
+            {{ entry.title }}.
+            {% if entry.journal %}<em>{{ entry.journal }}</em>{% endif %}
+            {% if entry.volume %}, vol. {{ entry.volume }}{% endif %}
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+{% endif %}
