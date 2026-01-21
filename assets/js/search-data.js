@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/AquaStoch/people/";
           },
-        },{id: "post-a-dynamic-model-of-groundwater-market",
+        },{id: "post-test-post",
+        
+          title: "Test post",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/AquaStoch/blog/2025/test/";
+          
+        },
+      },{id: "post-a-dynamic-model-of-groundwater-market",
         
           title: "A dynamic model of groundwater market",
         
