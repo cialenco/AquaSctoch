@@ -87,11 +87,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/2024_06_01/";
-            },},{id: "news-first-paper-published",
-          title: 'First paper published',
+            },},{id: "news-first-paper-published-tada",
+          title: 'First paper published :tada:',
           description: "",
-          section: "News",},{id: "news-cialenco-featured-on-illinois-tech-reseach-magazin",
-          title: 'Cialenco featured on Illinois Tech Reseach Magazin',
+          section: "News",},{id: "news-cialenco-featured-on-illinois-tech-research-magazine",
+          title: 'Cialenco featured on Illinois Tech Research Magazine',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/2025_12_01/";
