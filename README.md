@@ -29,10 +29,10 @@ AquaStoch is a project focused on stochastic modeling and simulation of aquatic 
   ```
 
 ## Documentation
-
+<!-- 
 - [Usage Guide](docs/USAGE.md)
 - [API Reference](docs/API.md)
-- [Examples](examples/)
+- [Examples](examples/) -->
 
 ## Contributing
 
