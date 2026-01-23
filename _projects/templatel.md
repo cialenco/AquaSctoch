@@ -2,14 +2,13 @@
 layout: page
 title: template
 description: description 
-img: assets/img/9.jpg
+img: assets/img/ocean.jpg
 importance: 10
 category: models
 related_publications: true
 bibliography: papers
 ---
 
-Put here a snapshot of the main model @cialenco2025groundwater
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
