@@ -115,11 +115,11 @@ ninja.data = [{
               window.location.href = "/AquaStoch/news/2025_12_01/";
             },},{id: "projects-rl",
           title: 'RL',
-          description: "reinforcment learning for groundwater market",
+          description: "Reinforcement learning for groundwater market",
           section: "Projects",handler: () => {
               window.location.href = "/AquaStoch/projects/computations1/";
-            },},{id: "projects-markov-chain-callibration",
-          title: 'Markov Chain Callibration',
+            },},{id: "projects-markov-chain-calibration",
+          title: 'Markov Chain Calibration',
           description: "description",
           section: "Projects",handler: () => {
               window.location.href = "/AquaStoch/projects/data1/";
