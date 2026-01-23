@@ -2,7 +2,7 @@
 layout: page
 title: template
 description: description 
-img: assets/img/9.jpg
+img: assets/img/ocean.jpg
 importance: 10
 category: models
 related_publications: true
