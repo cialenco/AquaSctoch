@@ -30,5 +30,5 @@ latest_posts:
 Write about the project here. 
 Make this web-page generally dedicated to quantitative models of water markets etc. not only related to our publications.  
 
-This website was created and maintained by [Igor Cialenco](http://cialenco.com) and [Mike Ludkovski](https://ludkovski.pstat.ucsb.edu/).
+This website was created and actiactively maintained by [Igor Cialenco](http://cialenco.com) and [Mike Ludkovski](https://ludkovski.pstat.ucsb.edu/).
 

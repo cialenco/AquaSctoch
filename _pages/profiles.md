@@ -14,9 +14,9 @@ profiles:
     content: about_igor.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Applied Math, Illinois Tech, Chicago, USA</p>
+      <p>cialenco at illinoistech * edu</p>    
       <a href="http://cialenco.com">cialenco.com </a>
-      <p>cialenco at illinoistech.edu</p>    
-      <p>Illinois Tech, USA</p>
   - align: left
     image: MikeWeb.jpg
     content: about_mike.md
