@@ -95,11 +95,16 @@ ninja.data = [{
             window.location.href = "/AquaStoch/blog/2015/math/";
           
         },
-      },{id: "news-cialenco-and-ludkovski-win-nsf-grant",
-          title: 'Cialenco and Ludkovski win NSF grant',
+      },{id: "news-cialenco-and-ludkovski-awarded-nsf-grant-on-management-of-water-rights",
+          title: 'Cialenco and Ludkovski awarded NSF grant on Management of Water Rights',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/2024_06_01/";
+            },},{id: "news-phd-student-m-kralis-wins-illinois-tech-poster-competition",
+          title: 'PhD student M. Kralis wins Illinois Tech poster competition',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/AquaStoch/news/2025_04_01/";
             },},{id: "news-first-paper-published-tada",
           title: 'First paper published :tada:',
           description: "",
@@ -108,7 +113,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/AquaStoch/news/2025_07_06/";
-            },},{id: "news-cialenco-featured-on-illinois-tech-research-magazine",
+            },},{id: "news-at-rio-2025-cialenco-delivers-an-invited-talk-on-dynamic-groundwater-rights",
+          title: 'At RiO 2025, Cialenco delivers an invited talk on “Dynamic Groundwater Rights”.',
+          description: "",
+          section: "News",},{id: "news-cialenco-featured-on-illinois-tech-research-magazine",
           title: 'Cialenco featured on Illinois Tech Research Magazine',
           description: "",
           section: "News",handler: () => {
